@@ -1,4 +1,4 @@
-The code in (run_analysis.R)[run_analysis.R] performs the processing of source dataset described (here)[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones] into the output dataset described (here)[CodeBook.md]. Steps of the processing:
+The code in [run_analysis.R](run_analysis.R) performs the processing of source dataset described [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) into the output dataset described [here](CodeBook.md). Steps of the processing:
 
 * Reading the source datasets
 * Adding subject and activity fields to the main table
