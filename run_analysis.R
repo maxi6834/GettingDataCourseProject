@@ -39,8 +39,6 @@ get_har_dataset <- function(main, subj, activity)
     
 }
 
-setwd("c:\\Coursera\\UCI HAR Dataset")
-
 train.df <- get_har_dataset(".\\train\\X_train.txt",
                             ".\\train\\subject_train.txt",
                             ".\\train\\y_train.txt")
